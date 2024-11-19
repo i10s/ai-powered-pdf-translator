@@ -1,0 +1,46 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.log
+
+# Virtual environment
+venv/
+env/
+*.venv
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.DS_Store
+
+# System files
+Thumbs.db
+Desktop.ini
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Output files
+output.docx
+*.pdf
+
+# Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+*.wheel
+
+# Configuration files
+.env
